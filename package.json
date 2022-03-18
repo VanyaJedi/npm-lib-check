@@ -1,0 +1,16 @@
+{
+  "name": "lib-check",
+  "version": "1.0.0",
+  "description": "Check creation datetime of npm libs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jedi in space",
+  "license": "MIT",
+  "dependencies": {
+    "shelljs": "0.8.5",
+    "yargs": "17.3.1",
+    "yargs-parser": "21.0.0"
+  }
+}
